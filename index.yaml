@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  kube-oidc-proxy:
+  - apiVersion: v1
+    appVersion: v0.3.0
+    created: "2020-11-15T18:25:51.102524081+01:00"
+    description: A Helm chart for kube-oidc-proxy
+    digest: 000f4d67e7cd8a36032e932fc6167226332e33c6319bc30d5b98d35564e452c8
+    home: https://github.com/jetstack/kube-oidc-proxy
+    maintainers:
+    - name: mhrabovcin
+    - name: joshvanl
+    name: kube-oidc-proxy
+    urls:
+    - https://ipulses.github.io/kube-oidc-proxy/kube-oidc-proxy-0.3.1.tgz
+    version: 0.3.1
+generated: "2020-11-15T18:25:51.101663161+01:00"
