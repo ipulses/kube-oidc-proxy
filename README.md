@@ -1,3 +1,14 @@
+# Important remark
+
+The `helm-repo` branch is a special branch used only to publish a helm repository with the chart 
+to be used to deploy the `kube-oidc-proxy`.
+
+This branch is exposed to external world through the GitHub pages as explained into the 
+[Helm documentation](https://helm.sh/docs/topics/chart_repository/).
+We also followed this documentation to publish a Helm chart into this branch/repository.
+
+
+
 # kube-oidc-proxy
 
 >  :warning:
